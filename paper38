@@ -1,0 +1,14 @@
+1.	Use recently created directory as a workspace for eclipse.
+2.	Create a simple java project named "CTBatchTwo".					(5) 
+	Using selenium webdriver open google.com. 
+	Search for w3schools and click on the link from search results. 
+	Click on javascript/Search for javascript tutorial. 
+	Click on JS Objects. Go to the previous page using back navigation. 
+	Click on try it yourself. 
+	Find the title of the page and print it on the console.
+3.	Create a trello board to track your study progress. Use subject names as artifacts.	(3)
+4. 	Write 3 user stories for Online Banking System(in word document).			(3) 
+5.	Save your progress in a local repository.						(1)					
+6.	Create a new branch named your roll number. eg. 19000.					(0.5)
+7.	Push the newly created branch to the remote repo.					(0.5)
+
