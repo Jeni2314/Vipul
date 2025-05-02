@@ -1,0 +1,13 @@
+
+user story 1: Login 
+As a register bank customer, I want to login securely using my username and password
+so that i can access my bank account and perform transcation 
+
+user story 2:Transfer Money
+As a bank customer, I want to transfer money from my account to another account 
+so that i can send funds to my family or friends to pay bills easily
+
+
+user story 3: View Transaction History
+As a bank customer, I want to view my recent transaction history 
+so that i can keep track of my spendings and confirm payments
